@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LoanAi/static/css/main.28f5bfab.css",
+    "main.js": "/LoanAi/static/js/main.c41330e1.js",
+    "static/js/156.baed7d8d.chunk.js": "/LoanAi/static/js/156.baed7d8d.chunk.js",
+    "index.html": "/LoanAi/index.html",
+    "main.28f5bfab.css.map": "/LoanAi/static/css/main.28f5bfab.css.map",
+    "main.c41330e1.js.map": "/LoanAi/static/js/main.c41330e1.js.map",
+    "156.baed7d8d.chunk.js.map": "/LoanAi/static/js/156.baed7d8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f5bfab.css",
+    "static/js/main.c41330e1.js"
+  ]
+}
