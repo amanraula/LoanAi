@@ -1,0 +1,19 @@
+/* Footer.css */
+
+.footer {
+    background-color: #f1f1f1; /* Light grey background */
+    padding: 10px 20px;       /* Padding inside the footer */
+    text-align: center;       /* Centered text */
+    position: fixed;          /* Fixed at the bottom of the page */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.1); /* Shadow effect for some depth */
+  }
+  
+  .footer p {
+    margin: 0; /* Remove default margins */
+    color: #333; /* Dark grey text */
+    font-size: 14px; /* Font size */
+  }
+  
