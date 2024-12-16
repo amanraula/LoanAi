@@ -26,7 +26,7 @@ def predict():
         # Return the prediction as a JSON response
         response = {
             
-            'So prediction ': prediction.tolist()  # Convert numpy array to list if necessary
+            'prediction ': prediction.tolist()  # Convert numpy array to list if necessary
         }
         return jsonify(response)
     except Exception as e:
