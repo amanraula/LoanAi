@@ -10,6 +10,8 @@ function App() {
     <div className="App">
       {/* Render Navbar */}
       <Navbar />
+      <h6>"RENDERED SUCCESSFULLY"</h6>
+      
       
       {/* Main Content */}
       <main>
@@ -18,7 +20,7 @@ function App() {
         <InputForm />
 
       </main>
-      
+       
 
       {/* Render Footer */}
       <Footer />
