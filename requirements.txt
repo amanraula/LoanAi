@@ -1,4 +1,5 @@
 flask
 numpy
-scikit-learn  # Include if using scikit-learn models
-pandas  # Include if handling dataframes
+scikit-learn
+pandas
+gunicorn
