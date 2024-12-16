@@ -53,7 +53,7 @@ const InputForm = () => {
 
   return (
     <div className="input-form">
-      {prediction && <div className="prediction-result">Prediction: {prediction}</div>} {/* Display prediction if available */}
+      {prediction && <div className="prediction-result"><h1> Prediction: {prediction}</h1> </div>} {/* Display prediction if available */}
       
       <form onSubmit={handleSubmit}>
         <div className="form-row">
