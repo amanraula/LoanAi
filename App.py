@@ -28,7 +28,7 @@ def predict():
             
             'prediction': prediction.tolist()  # Convert numpy array to list if necessary
         }
-        return jsonify(response)
+        return jsonify(response+"hello")
     except Exception as e:
         # Return the error as a JSON response
         return jsonify({'error Check datas': str(e)}), 400
